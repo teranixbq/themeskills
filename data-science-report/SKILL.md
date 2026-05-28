@@ -1,3 +1,10 @@
+---
+name: data-science-report
+displayName: Data Science & Analysis Report (Vintage Editorial)
+description: Technical report layout that marries 1970s terminal era teletype aesthetics with classic financial broadsheet typography. Features full monospace stacks, warm parchment paper styling, ledger data tables, teletype code blocks, mathematical formula blocks, and a layout supporting sidebar ToC and right-margin sidenotes (marginalia). Optimized for research papers, data logs, and retro academic branding.
+version: 1.0.0
+---
+
 # Data Science & Analysis Report Theme Skills (Vintage Editorial)
 
 ## Theme Overview
