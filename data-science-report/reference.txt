@@ -1,0 +1,12 @@
+Reference Websites for Data Science / Tech Blogs (Vintage Editorial Style):
+
+Visual Aesthetic Reference (Typography, Colors, Borders):
+1. StockTaper (https://www.stocktaper.com/) - Primary reference for the vintage, monospace, parchment paper aesthetic with dashed borders.
+
+Layout & Technical Component References (Marginalia, Data Tables, Code):
+2. Distill.pub (https://distill.pub/) - Reference for marginalia (sidenotes) and wide academic layouts.
+3. Stripe Engineering Blog (https://stripe.com/blog/engineering) - Reference for clean code typography.
+4. Observable (https://observablehq.com/) - Reference for data visualizations.
+
+Theme Style: Vintage Editorial / Retro Tech Report
+Industry: Data Science / Machine Learning / Tech Research
