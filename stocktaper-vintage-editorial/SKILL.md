@@ -1,3 +1,10 @@
+---
+name: stocktaper-vintage-editorial
+displayName: StockTaper Vintage Editorial Theme
+description: Retro newspaper and premium financial editorial web theme patterns. Enforces global monospace typography, warm parchment backgrounds (#F5F0E8), sharp square corners (zero border-radius), and signature dashed borders. Includes layout definitions for 3-column article feeds, left-sticky article navigation, right-side data widgets (market snapshots), pill-shaped search bars, and rules for monochrome crosshatch illustrations.
+version: 1.0.0
+---
+
 # StockTaper Vintage Editorial Theme Skills
 
 ## Theme Overview
